@@ -12,7 +12,7 @@ Implementation examples:
 
 Gameplay from mobile device: https://youtu.be/eFUSjpuIpwA
 
-Android APK: https://drive.google.com/file/d/1vDH6V2vdaC42lHevSW9bW0I7vWNcdtEY/view?usp=sharing
+Android APK: https://drive.google.com/file/d/1rwssruXGi64uDl4TBDoSqJ060-v-IdSi/view?usp=sharing
 
 # NinjaCyborg
 Pixelart 2D hack'n'slash gameplay prototype.
